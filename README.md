@@ -1,0 +1,2 @@
+# javascript
+Kumpulan script JavaScript
